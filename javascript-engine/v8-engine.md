@@ -1,7 +1,7 @@
 ## Global Enviroment
 
 1. global Object == window
-2. global objet = this = window
+2. global object == this == window
 3. Outer enviroment
 
 ## Execution Context
